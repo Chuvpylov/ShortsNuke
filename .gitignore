@@ -1,0 +1,9 @@
+# Visual Studio Code - Workspace settings
+.vscode/
+*.code-workspace
+
+# Ignore all your personal workspace settings
+**/.vscode/*
+!.vscode/extensions.json
+
+.vs/
