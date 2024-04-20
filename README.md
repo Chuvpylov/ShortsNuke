@@ -1,48 +1,50 @@
-# YouTube Shorts Blocker - No More Tiny Tales
+# YouTube Shorts Nuke - Your Personal Curator for a Richer Viewing Experience
 
-## What is This Sorcery? 🧙‍♂️
+## Overview 🌐
 
-Welcome to the *YouTube Shorts Blocker* — the magic wand for those who prefer their videos like their epic novels: long, immersive, and not over in a snap. In the vast ocean of content that is YouTube, Shorts come like waves... small, fast, and many. If you find yourself drowning in these teeny-tiny tidbits when you're fishing for the full-length catches, you've docked at the right port.
+Escape the relentless wave of YouTube Shorts with *YouTube Shorts Nuke*, a streamlined Edge extension designed for those who seek more substantial content. This is for the thinkers, the dreamers, and the watchers who prefer their stories full-length, their narratives deep, not doled out in bite-sized chunks.
 
-## Why Use This? 🤔
+## Why Choose the Long View? 🎥
 
-You know those little video snacks called YouTube Shorts? They’re like the fast food of the video world: quick, addictive, and before you know it, you've binged on a hundred of them and wasted away your afternoon. Our extension puts you on a Shorts diet, effectively blocking these tempting morsels so you can stay focused on the gourmet full-length videos you came for.
+In the fast-paced world of instant gratification, YouTube Shorts are like the mini cupcakes of digital content: small, sweet, and gone in one bite. Our extension is the discerning viewer's choice, offering a mindful alternative - a curated YouTube experience that prioritizes depth and engagement.
 
-## How Does It Work? 🛠
+## Functionality at Its Simplest 🛠️
 
-Our crafty code hunts down anything with a whiff of "Shorts" on YouTube and makes it vanish faster than a packet of cookies at a diet club. It's like a content censor for your own good. Just install the extension and watch those pesky Shorts disappear, as if by magic. 
+The extension operates under a simple premise: locate elements marked as Shorts and discreetly remove them from your YouTube feed. It’s a straightforward approach, no frills, just the enhancement of your viewing experience.
 
-## Features ✨
+## Features 🌟
 
-- **Abracadabra Algorithm**: Utilizes mystical spells (aka JavaScript functions) to seek and hide Shorts.
-- **Stealth Mode**: Operates quietly in the background. No capes or top hats needed.
-- **Shelf, Guide, Mini-Guide**: Clears out Shorts from all nooks and crannies. We're thorough like that.
+- **Easy-to-Use**: A plug-and-play solution that integrates seamlessly with Edge.
+- **Unobtrusive**: Silently filters Shorts, maintaining a clean and focused YouTube interface.
+- **Reliable**: Keeps up with YouTube's updates to ensure Shorts stay out of sight.
 
-## Get Started 🚀
+## Installation 📦
 
-1. Clone this repository of anti-Shorts wizardry.
-2. Load it as an unpacked extension in your browser (we trust you know the drill).
-3. Navigate to YouTube and experience the joy of a Shorts-free existence.
+Get the extension directly from the Edge Add-ons store:
+[YouTube Shorts Nuke - Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/lkpengbhkkgcjhfbddganngjegfghdgj)
 
-## Contribute 🤝
+Or manually install the latest version:
 
-Found a new place where Shorts are lurking? Fork the repository, banish the unwelcome intruders, and make a pull request. Let's keep the full-length video sanctuaries clean, together!
+1. Clone or download this repository.
+2. Open Edge, go to `edge://extensions/`, and enable 'Developer mode'.
+3. Click 'Load unpacked' and navigate to the directory of the repository.
+4. Enjoy your new Shorts-free YouTube experience.
 
-## Disclaimer ⚠️
+## Engage and Improve 🔄
 
-This extension is not meant to offend the creators of Shorts or those who enjoy them. It's simply a tool for those who prefer their video content tall, not venti.
+Found a cleverly hidden Short or have a suggestion? Contributions are always welcome! Fork the repository, commit your improvements, and submit a pull request. Let's perfect the art of distraction-free YouTube browsing.
 
-Install now and take the first step towards a Shorts-less life. Your future self, with all that extra time, will thank you.
+## Respectful Disclaimer 📜
 
-## License 📜
+This extension was created as a preference tool, not a critique of short-form content or its creators. It serves those who opt for longer, uninterrupted viewing sessions.
 
-Distributed under the "Please Don't Sue Us" License. See `LICENSE` for more information.
+## License ✒️
 
-## Contact 📧
+Released under an open license that encourages distribution and modification with proper acknowledgment.
 
-Your Name - [@chuvpilov](https://twitter.com/chuvpilov)
+## Stay Connected 🖇
 
-Project Link: [https://github.com/Chuvpylov/ShortsNuke]
+- Twitter: [@chuvpilov](https://twitter.com/chuvpilov)
+- Repository: [https://github.com/Chuvpylov/ShortsNuke](https://github.com/Chuvpylov/ShortsNuke)
 
----
-*"ShortsNuke: Because life's too short for Shorts."*
+*"In a world of brief encounters, choose the lingering narrative with YouTube Shorts Nuke."*
