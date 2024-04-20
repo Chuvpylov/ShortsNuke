@@ -1,4 +1,4 @@
-# YouTube Shorts Nuke - Your Personal Curator for a Richer Viewing Experience
+# YouTube Shorts Nuke - NukemShorts
 
 ## Overview 🌐
 
